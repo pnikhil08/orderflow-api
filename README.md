@@ -30,3 +30,5 @@ Vanilla JS dashboard
 
 Built by-
 Nikhil Pandey — nikhilpandey5270@gmail.com
+
+Thanks
