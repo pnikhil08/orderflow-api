@@ -28,5 +28,5 @@ Node.js + Express.js
 In-memory store (production-ready swap: PostgreSQL + Prisma)
 Vanilla JS dashboard
 
-Built by
+Built by-
 Nikhil Pandey — nikhilpandey5270@gmail.com
