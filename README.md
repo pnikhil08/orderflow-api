@@ -6,8 +6,7 @@ Full CRUD REST API for order management
 Live dashboard with real-time stats
 Status flow: placed → confirmed → preparing → out_for_delivery → delivered
 Filter by status and city
-In-memory store (swap with PostgreSQL for production)
-Built-in API Explorer UI
+
 
 API Endpoints
 MethodEndpointDescriptionGET/api/ordersList all ordersPOST/api/ordersCreate orderGET/api/orders/:idGet order by IDPATCH/api/orders/:id/statusUpdate statusDELETE/api/orders/:idCancel orderGET/api/statsOrder statisticsGET/healthHealth check
