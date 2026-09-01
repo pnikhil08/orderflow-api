@@ -11,10 +11,9 @@ Filter by status and city
 API Endpoints
 MethodEndpointDescriptionGET/api/ordersList all ordersPOST/api/ordersCreate orderGET/api/orders/:idGet order by IDPATCH/api/orders/:id/statusUpdate statusDELETE/api/orders/:idCancel orderGET/api/statsOrder statisticsGET/healthHealth check
 Run locally
-bashnpm install
+npm install
 npm start
-# Visit http://localhost:3000
-Deploy on Railway / Render
+
 
 Push to GitHub
 Connect on railway.app or render.com
